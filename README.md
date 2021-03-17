@@ -1,4 +1,4 @@
-### Hey there 👋 I am Tahanima Chowdhury.
+### Hey there, I am Tahanima Chowdhury 👋
 
 ![](https://c.tenor.com/nHBgEK6zEQMAAAAj/cat-gray.gif)
 
