@@ -1,4 +1,5 @@
 ### Hey there, I am Tahanima Chowdhury 👋
+> *"There is no recipe, there is no one way to do things — there is only your way. And if you can recognize that in yourself and accept and appreciate that in others, you can make magic." ― Ara Katz*
 
 ![](https://c.tenor.com/nHBgEK6zEQMAAAAj/cat-gray.gif)
 
