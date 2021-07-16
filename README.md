@@ -5,7 +5,7 @@
 
 > *"It may take you longer than others to grasp concepts, or it may take you less time. This doesn’t mean you’re smarter or dumber than others, it means you’ve had differing life experiences that may or may not have prepared you for learning this stuff. Someone who grew up around an engineer may have some advantages over someone who didn’t, but it doesn’t mean you can’t learn those skills." ― The Odin Project*
 
-![](https://c.tenor.com/nHBgEK6zEQMAAAAj/cat-gray.gif)
+![](https://user-images.githubusercontent.com/6233068/125982926-d15a08c8-b8cc-453a-aea0-6806118f4ad9.gif)
 
 - I’m a *Software Engineer, QA* at [Therap (BD) Ltd.](https://therapbd.com/)
 - I have a [personal blog](https://tahanima.github.io/) where you can find a lot of recruitment-related content in the context of Bangladesh.
