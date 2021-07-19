@@ -1,7 +1,4 @@
 ### Hey there, I am Tahanima Chowdhury 👋
-> *"There is no recipe, there is no one way to do things — there is only your way. And if you can recognize that in yourself and accept and appreciate that in others, you can make magic." ― Ara Katz*   
-
-> *"It may take you longer than others to grasp concepts, or it may take you less time. This doesn’t mean you’re smarter or dumber than others, it means you’ve had differing life experiences that may or may not have prepared you for learning this stuff. Someone who grew up around an engineer may have some advantages over someone who didn’t, but it doesn’t mean you can’t learn those skills." ― The Odin Project*
 
 ![](https://user-images.githubusercontent.com/6233068/125982926-d15a08c8-b8cc-453a-aea0-6806118f4ad9.gif)
 
