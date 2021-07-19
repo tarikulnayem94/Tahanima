@@ -7,7 +7,6 @@
   </tr>
 </table>
 
----
 <p align = "center">
   
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://tahanima.github.io/)
