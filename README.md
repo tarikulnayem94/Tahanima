@@ -12,11 +12,10 @@
         <li>If you are currently solving <a href="https://leetcode.com/">LeetCode</a> problems, don't forget to look into <a href="https://github.com/Tahanima/leetcode-solution-curation">this</a> repository.</li>
       </ul>
       <h4>Connect with me:</h4>
-      <a href="mailto:tahanimachowdhury@gmail.com"><img src ="https://img.shields.io/badge/email-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black"></a>
-      <a href="https://tahanima.github.io/"><img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black"></a>
-      <a href="https://twitter.com/TahanimaC"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a>
-      <a href="https://www.linkedin.com/in/tahanima-chowdhury/"><img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
-      <a href="https://tahanima.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" /></a
+      <a href="mailto:tahanimachowdhury@gmail.com"><img src="https://img.icons8.com/ultraviolet/40/000000/email-open--v1.png"/></a>
+      <a href="https://tahanima.github.io/"><img src="https://img.icons8.com/ultraviolet/50/000000/internet--v1.png"/></a>
+      <a href="https://twitter.com/TahanimaC"><img src="https://img.icons8.com/ultraviolet/50/000000/twitter.png"/></a>
+      <a href="https://www.linkedin.com/in/tahanima-chowdhury/"><img src="https://img.icons8.com/ultraviolet/50/000000/linkedin.png"/></a>
     </td>
   </tr>
 </table>
