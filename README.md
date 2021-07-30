@@ -13,9 +13,9 @@
       </ul>
       <h4>Connect with me:</h4>
       <a href="mailto:tahanimachowdhury@gmail.com"><img src="https://img.icons8.com/ultraviolet/40/000000/email-open--v1.png"/></a>
-      <a href="https://tahanima.github.io/"><img src="https://img.icons8.com/ultraviolet/50/000000/internet--v1.png"/></a>
-      <a href="https://twitter.com/TahanimaC"><img src="https://img.icons8.com/ultraviolet/50/000000/twitter.png"/></a>
-      <a href="https://www.linkedin.com/in/tahanima-chowdhury/"><img src="https://img.icons8.com/ultraviolet/50/000000/linkedin.png"/></a>
+      <a href="https://tahanima.github.io/"><img src="https://img.icons8.com/ultraviolet/40/000000/internet--v1.png"/></a>
+      <a href="https://twitter.com/TahanimaC"><img src="https://img.icons8.com/ultraviolet/40/000000/twitter.png"/></a>
+      <a href="https://www.linkedin.com/in/tahanima-chowdhury/"><img src="https://img.icons8.com/ultraviolet/40/000000/linkedin.png"/></a>
     </td>
   </tr>
 </table>
