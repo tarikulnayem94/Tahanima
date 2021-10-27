@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/6233068/134954018-1e5f1874-35f5-421f-a817-2961873be2e9.gif"></td>
+    <td><img src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"></td>
     <td>
       <ul>
         <li>Hey there, I am <strong>Tahanima Chowdhury</strong></li>
