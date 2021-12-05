@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <p><i>If you appreciate what I do and are intending to reward me, I'd love to have a cup of coffee from you!</i></p>
+      <p><i>If you appreciate what I do and wish to support my work, I'd love to have a cup of coffee from you!</i></p>
       <a href="https://www.buymeacoffee.com/tahanima" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
     </td>
   </tr>
