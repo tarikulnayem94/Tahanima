@@ -6,7 +6,7 @@
     <td>
       <ul>
         <li>Hey there, I am <strong>Tahanima Chowdhury</strong></li>
-        <li>I’m a <em>Software Engineer II, QA</em> at <a href="https://therapbd.com/">Therap (BD) Ltd.</a></li>
+        <li>I’m a <em>Software Engineer II, QA</em> at <a href="https://therapbd.com/">Therap (BD) Ltd.</a> and a <em>Freelance Technical Writer</em> at  <a href="https://draft.dev/">Draft.dev</a></li>
         <li>I have a <a href="https://tahanima.github.io/">personal blog</a> where you can find a lot of recruitment-related content in the context of Bangladesh.</li>
         <li>If you love solving <a href="https://leetcode.com/">LeetCode</a> problems, don't forget to look into <a href="https://github.com/Tahanima/leetcode-solution-curation">this</a> repository.</li>
       </ul>
