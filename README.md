@@ -8,12 +8,12 @@
         <li>Hey there, I am <strong>Tahanima Chowdhury</strong></li>
         <li>I’m a <em>Software Engineer II, QA</em> at <a href="https://therapbd.com/">Therap (BD) Ltd.</a> and a <em>Freelance Technical Writer</em> at  <a href="https://draft.dev/">Draft.dev</a></li>
         <li>I have a <a href="https://tahanima.github.io/">personal blog</a> where you can find a lot of recruitment-related content in the context of Bangladesh.</li>
-        <li>If you love solving <a href="https://leetcode.com/">LeetCode</a> problems, don't forget to look into <a href="https://github.com/Tahanima/leetcode-solution-curation">this</a> repository.</li>
+        <li>I enjoy contributing to open source projects and currently, I am contributing to <em><a href="https://github.com/datafaker-net/datafaker">datafaker</a></em>.
       </ul>
       <h4>Connect with me:</h4>
       <a href="mailto:tahanimachowdhury@gmail.com"><img src="https://img.icons8.com/dusk/40/000000/new-post.png"/></a>
       <a href="https://tahanima.github.io/"><img src="https://img.icons8.com/dusk/40/000000/internet--v1.png"/></a>
-      <a href="https://twitter.com/TahanimaC"><img src="https://img.icons8.com/dusk/40/000000/twitter.png"/></a>
+      <a href="https://twitter.com/TahanimaC"><img src="https://img.icons8.com/dusk/40/000000/twitter-circled.png"/></a>
       <a href="https://www.linkedin.com/in/tahanima-chowdhury/"><img src="https://img.icons8.com/dusk/40/000000/linkedin.png"/></a>
     </td>
   </tr>
